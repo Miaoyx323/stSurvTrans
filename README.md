@@ -1,6 +1,6 @@
 # stSurvTrans
 
-The code for Identifying prognosis-associated spatial patterns by integrating bulk RNA-seq and spatial transcriptomic data
+The code for *Identifying prognosis-associated spatial patterns by integrating bulk RNA-seq and spatial transcriptomic data*.
 
 ## Installation
 
